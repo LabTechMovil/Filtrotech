@@ -1,2 +1,2 @@
 # Filtrotech
-Elaboración de filtros de Instagram alusivos a LAB-TECH
+Proyectos de filtros de Instagram elaborados en Spark Ar
