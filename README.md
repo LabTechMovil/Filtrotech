@@ -4,6 +4,7 @@
 # Videos
 - [Filtro para girar objetos alrededor de la cara](https://www.youtube.com/watch?v=0bLfpC4k2zE)
 - [Crear y publicar filtros de instagram](https://www.youtube.com/watch?v=AbaknB4FlAM)
+- [Aprende a usar Spark Ar](https://www.youtube.com/watch?v=pEEWOdP3ohU)
 
 # Descargas externas
 - [Descargar Meta Spark Studio](https://sparkar.facebook.com/ar-studio/download)
