@@ -1,2 +1,2 @@
 # Filtrotech
-Proyectos de filtros de Instagram elaborados en Spark Ar
+Filtros de Instagram Diseñados en Spark Ar
